@@ -1,6 +1,6 @@
 # Cloud Storage Application  
 
-A modern and secure cloud storage application, designed for seamless file management and collaboration. Built using **Next.js**, **ShadCN**, **Cloudinary**, **Mongoose**, and **Nodemailer**, this project incorporates both frontend and backend features to ensure a user-friendly experience and robust performance.  
+A modern and secure cloud storage application, designed for seamless file management and collaboration. Built using **Next.js**, **ShadCN**, **Cloudinary**, **Mongoose**, and **Nodemailer**, this project incorporates both frontend and backend features to ensure a user-friendly experience and robust performance 
 
 ## Features  
 
